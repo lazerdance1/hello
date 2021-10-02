@@ -1,0 +1,84 @@
+[33mcommit ffe8baeda9db9e337024decb18cf015f7b83a688[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 9dfcaab 785727f
+Author: lazerdance1 <lazerdance12@gmail.com>
+Date:   Sat Oct 2 20:23:43 2021 +0300
+
+    ну ка через терминал
+
+[33mcommit 9dfcaab6052f4689e63b2c17d20f42b4fccbfd15[m
+Author: lazerdance1 <lazerdance12@gmail.com>
+Date:   Sat Oct 2 20:16:15 2021 +0300
+
+    проверка конфликта ага
+
+[33mcommit 785727f26ea0736bc25fe2fdb481422a1c6fadf9[m
+Author: lazerdance1 <75040200+lazerdance1@users.noreply.github.com>
+Date:   Sat Oct 2 20:15:51 2021 +0300
+
+    проверка конфликта версий
+
+[33mcommit 7a131262cdf2a89845205a69683507cb13ca6e39[m
+Author: lazerdance1 <lazerdance12@gmail.com>
+Date:   Sat Oct 2 20:07:36 2021 +0300
+
+    Всё сработало, круто, чё ))
+
+[33mcommit 419b2dcf1c5791b193c5513b68b1ea53476c8144[m
+Author: lazerdance1 <lazerdance12@gmail.com>
+Date:   Sat Oct 2 20:06:20 2021 +0300
+
+    сработало
+
+[33mcommit 029543d2bdfbafff36d3f89a0d7df4d66036f50f[m
+Author: lazerdance1 <75040200+lazerdance1@users.noreply.github.com>
+Date:   Sat Oct 2 20:04:39 2021 +0300
+
+    теперь проверяю приём (git pull) через vscode
+
+[33mcommit be5a475aecaedc56ed057ee0ff24fe082bf70d36[m
+Author: lazerdance1 <lazerdance12@gmail.com>
+Date:   Sat Oct 2 19:59:39 2021 +0300
+
+    все сработало, для отпраки через vscode использую меню.
+
+[33mcommit 5c3bb545181e9c2b663e0bcbe2fe0dae03f8c653[m
+Author: lazerdance1 <lazerdance12@gmail.com>
+Date:   Sat Oct 2 19:49:07 2021 +0300
+
+    очередная попытка
+
+[33mcommit 916bfc4516659174691ff9987140d3fe4a8a8eb9[m
+Author: lazerdance1 <lazerdance12@gmail.com>
+Date:   Sat Oct 2 19:37:44 2021 +0300
+
+    дуб дуб сосне ответьте
+
+[33mcommit b8354fd60dda29cfed41f5b1f1cbf28988324d48[m
+Author: lazerdance1 <lazerdance12@gmail.com>
+Date:   Sat Oct 2 19:20:17 2021 +0300
+
+    ану ка через vscode
+
+[33mcommit 872a928e400551f7713a45946550c3f7e49dcde5[m
+Author: lazerdance1 <lazerdance12@gmail.com>
+Date:   Sat Oct 2 19:12:52 2021 +0300
+
+    Проверяю дальше
+
+[33mcommit c8f4c014d4268a4089bf72303d592e145a1e27ef[m
+Author: lazerdance1 <lazerdance12@gmail.com>
+Date:   Sat Oct 2 19:01:55 2021 +0300
+
+    меняю и проверяю работу с vscode
+
+[33mcommit 8cf4a624e46276322917f80abebc8cacc9bf8ea9[m
+Author: lazerdance1 <75040200+lazerdance1@users.noreply.github.com>
+Date:   Sat Oct 2 18:17:16 2021 +0300
+
+    Update README.md
+
+[33mcommit d12f520f8fb48c5cecf993044d212768311e1838[m
+Author: lazerdance1 <75040200+lazerdance1@users.noreply.github.com>
+Date:   Sat Oct 2 18:15:55 2021 +0300
+
+    Initial commit
